@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+celerybeat-schedule
+*.log
+.env
+.venv
+env/
+venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+.zed/
